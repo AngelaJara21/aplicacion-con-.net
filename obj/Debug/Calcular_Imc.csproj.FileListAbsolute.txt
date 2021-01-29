@@ -1,0 +1,167 @@
+C:\Users\angela\source\repos\Calcular_Imc\bin\Calcular_Imc.dll.config
+C:\Users\angela\source\repos\Calcular_Imc\bin\Calcular_Imc.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\Calcular_Imc.pdb
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\csc.exe
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\csc.exe.config
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\csc.rsp
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\csi.exe
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\csi.exe.config
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\csi.rsp
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.AppContext.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Console.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.IO.Compression.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Security.Claims.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.ValueTuple.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\vbc.exe
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\vbc.exe.config
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\vbc.rsp
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\VBCSCompiler.exe
+C:\Users\angela\source\repos\Calcular_Imc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\angela\source\repos\Calcular_Imc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\angela\source\repos\Calcular_Imc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\angela\source\repos\Calcular_Imc\obj\Debug\Calcular_Imc.csprojAssemblyReference.cache
+C:\Users\angela\source\repos\Calcular_Imc\obj\Debug\Calcular_Imc.csproj.CoreCompileInputs.cache
+C:\Users\angela\source\repos\Calcular_Imc\obj\Debug\Calcular_Imc.csproj.CopyComplete
+C:\Users\angela\source\repos\Calcular_Imc\obj\Debug\Calcular_Imc.dll
+C:\Users\angela\source\repos\Calcular_Imc\obj\Debug\Calcular_Imc.pdb
+D:\taller de app para internet en net\Calcular_Imc\bin\Calcular_Imc.dll.config
+D:\taller de app para internet en net\Calcular_Imc\bin\Calcular_Imc.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\Calcular_Imc.pdb
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\csc.exe
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\csc.exe.config
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\csc.rsp
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\csi.exe
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\csi.exe.config
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\csi.rsp
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.Managed.Core.targets
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.AppContext.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Collections.Immutable.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Console.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.Compression.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.FileSystem.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.Pipes.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Reflection.Metadata.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.AccessControl.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Claims.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Principal.Windows.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.ValueTuple.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Xml.XmlDocument.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Xml.XPath.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\vbc.exe
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\vbc.exe.config
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\vbc.rsp
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\VBCSCompiler.exe
+D:\taller de app para internet en net\Calcular_Imc\bin\roslyn\VBCSCompiler.exe.config
+D:\taller de app para internet en net\Calcular_Imc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\taller de app para internet en net\Calcular_Imc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.csprojAssemblyReference.cache
+D:\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.csproj.CoreCompileInputs.cache
+D:\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.csproj.CopyComplete
+D:\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.dll
+D:\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.pdb
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\Calcular_Imc.dll.config
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\Calcular_Imc.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\Calcular_Imc.pdb
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\csc.exe
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\csc.exe.config
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\csc.rsp
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\csi.exe
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\csi.exe.config
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\csi.rsp
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.Managed.Core.targets
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.AppContext.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Collections.Immutable.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Console.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.Compression.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.FileSystem.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.IO.Pipes.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Reflection.Metadata.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.AccessControl.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Claims.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Security.Principal.Windows.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.ValueTuple.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Xml.XmlDocument.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Xml.XPath.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\vbc.exe
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\vbc.exe.config
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\vbc.rsp
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\VBCSCompiler.exe
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\roslyn\VBCSCompiler.exe.config
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.csprojAssemblyReference.cache
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.csproj.CopyComplete
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.dll
+D:\carrera programacion y analisis de sistemas\taller de app para internet en net\Calcular_Imc\obj\Debug\Calcular_Imc.pdb
